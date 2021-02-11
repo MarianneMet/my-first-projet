@@ -104,14 +104,6 @@
          "cost":5925,
          "size":450,
          "description":
-      },
-      {
-         "task":"St Mary's",
-         "category":3,
-         "months":1,
-         "cost":5535,
-         "size":410,
-         "description":
       }
    ]
 }
